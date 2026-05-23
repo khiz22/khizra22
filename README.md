@@ -26,7 +26,7 @@ BDS graduate passionate about bioinformatics, biology, genomics, and public heal
 ### Content Writing & Research – CodeAlpha
 Research and writing tasks focused on internships, career development, technology trends, and professional communication. The project included blog writing, case studies, social media content, and research-based reports designed to improve analytical and communication skills.
 
-🔗 Repository: [Add Your GitHub Repository Link Here]
+🔗 Repository: https://github.com/khiz22/CodeAlpha_ContentWriting.git
 
 ## Currently Learning
 - Python for Bioinformatics
